@@ -1,4 +1,4 @@
-# financeLLM
+# tallm-lite (TA-LLM lite)
 
 - Enabling technical analysis through lightweight intelligent & deterministic chains
 ![image](https://github.com/user-attachments/assets/055401eb-e157-4243-989b-27d3e3262d4d)
