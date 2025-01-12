@@ -1,0 +1,103 @@
+1. Technical Analysis
+Focuses on price trends, chart patterns, and technical indicators to predict future price movements.
+
+Key Concepts:
+Trend Analysis:
+Uptrend: Series of higher highs and higher lows.
+Downtrend: Series of lower highs and lower lows.
+Sideways/Consolidation: Flat or range-bound movement.
+Support and Resistance:
+Support: Price level where buying interest is strong enough to prevent further decline.
+Resistance: Price level where selling pressure prevents further rise.
+Moving Averages:
+Tracks the average price over a specific period (e.g., 50-day, 200-day) to smooth price fluctuations.
+Golden Cross: Short-term MA crosses above long-term MA (bullish signal).
+Death Cross: Short-term MA crosses below long-term MA (bearish signal).
+Volume Analysis:
+High volume during a price move indicates strength in the trend.
+Divergence between volume and price may signal a potential reversal.
+Indicators:
+RSI (Relative Strength Index): Measures overbought (>70) or oversold (<30) conditions.
+MACD (Moving Average Convergence Divergence): Tracks momentum and trend direction through crossovers.
+Bollinger Bands: Shows volatility and potential breakout points.
+Chart Patterns:
+Head and Shoulders: Reversal pattern.
+Triangles and Flags: Continuation patterns.
+
+Price Action: What It Is and How Stock Traders Use It
+By David Gorton
+Full Bio
+David Gorton, CPA, has 5+ years of professional experience in accounting. He teaches accounting, helping promote financial education and awareness.
+Learn about our editorial policies
+ Updated August 04, 2024
+Reviewed by Gordon Scott
+Fact checked by Yarilet Perez
+Price Action
+Investopedia / Michela Buttignol
+
+9 States With No Income Tax
+
+Close
+What Is Price Action?
+Price action is the movement of a security's price plotted over time. Price action forms the basis for all technical analyses of a stock, commodity, or other asset charts.
+
+Many short-term traders rely exclusively on price action and the formations and trends extrapolated from it to make trading decisions. Technical analysis as a practice is a derivative of price action since it uses past prices in calculations that can then be used to inform trading decisions.
+
+Key Takeaways
+Price action generally refers to the changes of a security's price over time.
+Different looks can be applied to a chart to make trends in price action more obvious for traders. This is especially true when analyzing data covering different time periods.
+Technical analysis formations and chart patterns are derived from price action.
+Technical analysis tools like moving averages are also calculated from price action and projected into the future to inform trades.
+Though many use price action to forecast future prices, prior price action does not guarantee future results.
+Understanding Price Action
+Price action can be seen and interpreted using charts that plot prices over time. Traders use different chart compositions to improve their ability to spot and interpret trends, breakouts, and reversals.
+
+Many traders use candlestick charts since they help better visualize price movements by displaying the open, high, low, and close values in the context of up or down sessions.
+
+Candlestick patterns such as the Harami cross, engulfing pattern, and three white soldiers are all examples of visually interpreted price action.
+
+Many more candlestick formations are generated off-price action to set up an expectation of what will come next. These same formations can apply to other types of charts, including point and figure charts, box charts, box plots, and so on.
+
+Image
+Image by Sabrina Jiang © Investopedia 2020
+In addition to the visual formations on the chart, many technical analysts use price action data when calculating technical indicators. The goal is to find order in the sometimes seemingly random movement of a price.
+
+For example, an ascending triangle pattern formed by applying trendlines to a price action chart may be used to predict a potential breakout since the price action indicates that bulls have attempted a breakout on several occasions and have gained momentum each time.
+
+How to Use Price Action
+Price action is not generally seen as a trading tool like an indicator, but rather the data source from which all the tools are built.
+
+Swing and trend traders tend to work most closely with price action, eschewing any fundamental analysis to focus solely on support and resistance levels to predict breakouts and consolidation.
+
+Even these traders must pay some attention to additional factors beyond the current price, as the volume of trading and the periods used to establish levels all impact the likelihood of their interpretations being accurate.
+
+Many institutions have begun leveraging algorithms to analyze prior price action and execute trades in certain circumstances. In a 2020 report to Congress, the Securities and Exchange Commission (SEC) noted that the "use of algorithms in trading is pervasive."
+1
+
+These automated systems are fed price action data and can deduce outcomes and determine potential future price action.
+
+Limitations of Price Action
+Interpreting price action is very subjective. It's common for two traders to arrive at different conclusions when analyzing the same price action. One trader may see a bearish downtrend and another might believe that the price action shows a potential near-term turnaround.
+
+Of course, the time period being used also has a huge influence on what traders see as a stock can have many intraday downtrends while maintaining a month-over-month uptrend.
+
+The important thing to remember is that trading predictions made using price action on any time scale are speculative. The more tools you can apply to your trading prediction to confirm it, the better.
+
+In the end, however, the past price action of a security is no guarantee of future price action. High-probability trades are still speculative trades, which means traders take on the risks to get access to the potential rewards. Price action does not explicitly incorporate macroeconomic or non-financial matters impacting a security.
+
+How Can I Use Price Action in Trading?
+Price action is used to analyze trends and identify entry and exit points when trading. Many traders use candlestick charts to plot prior price action, and then plot potential breakout and reversal patterns. Although prior price action does not guarantee future results, traders often analyze a security's historical patterns to better understand where the price may move to next.
+
+How Do I Read Price Action?
+Price action is often depicted graphically in the form of a bar chart or line chart. There are two general factors to consider when analyzing price action. The first is to identify the direction of the price, and the second is to identify the direction of the volume.
+
+Should a security's price be moving upward while the volume increases, this means there is strong conviction in the market as many investors are buying at the increasing price. Alternatively, should there have been low volume, the price action may not be as convincing as not many investors are choosing to invest at the current pricing levels.
+
+What Is Bullish Price Action?
+Bullish price action is an indicator giving positive signals that a security's price is due for future increases. For example, one bullish trend is often defined by "higher highs" and "higher lows" forming an ascending triangle pattern. This means the price action of a security recently surpassed a high price but remained higher than a recent low price.
+
+Is Price Action Good for Swing Trading?
+Swing traders rely on price movement; if a security's price remains unchanged, it is harder to seek opportunities to profit. In general, price action is good for swing traders because traders can identify the oscillations up and down and trade accordingly.
+
+The Bottom Line
+Technical traders use price action to gather insight into the price movement of a security. Price and volume are analyzed on charts to determine the buying and selling activity of the security, informing trading decisions. Like many technical analysis tools, price action should be utilized with other tools to make overall trading decisions.
